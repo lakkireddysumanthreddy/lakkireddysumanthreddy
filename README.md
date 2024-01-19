@@ -1,7 +1,7 @@
 ![logo](https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1276648/regular_1708x683_staging.toptal.net_react_react-seo-best-practices-ed6f6c2c1a89dcf71c9f845c32edb9c1-7c9b1683bdbb4db5bfa6dfee97e91d6c.png)
 <h1 align="center">Hi 👋, I'm Sumanth Reddy</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-<img alt="code" width="350" align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<img alt="code" width="300" align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakkireddysumanthreddy&label=Profile%20views&color=0e75b6&style=flat" alt="lakkireddysumanthreddy" /> </p>
 
 - 📫 How to reach me **lakkireddysumanthreddy.95025@gmail.com**
